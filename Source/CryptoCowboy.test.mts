@@ -1,4 +1,4 @@
-import CryptoCowboy, { Configuration } from "./CryptoCowboy.js";
+import CryptoCowboy, { Configuration } from "./CryptoCowboy.mjs";
 
 const configuration: Configuration =
 {

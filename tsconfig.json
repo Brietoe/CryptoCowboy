@@ -35,15 +35,8 @@
     "target": "ES2022",
     "moduleResolution": "Node",
     "noEmitOnError": true
-    // "diagnostics": true,
-    // "extendedDiagnostics": true,
-    // "explainFiles": true,
-    // "traceResolution": true,
-    // "listEmittedFiles": true,
-    // "noErrorTruncation": true
-    // "pretty": false,
   },
   "include": [
-    "./Source/**/*.ts"
+    "./Source/**/*.mts"
   ]
 }
